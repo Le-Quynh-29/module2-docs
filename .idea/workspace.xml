@@ -19,10 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a4b203fe-ab00-4e87-ba05-7e94817e4318" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Cleancode-refactoring-codingconvention.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="a4b203fe-ab00-4e87-ba05-7e94817e4318" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,6 +67,7 @@
       <workItem from="1605174630499" duration="799000" />
       <workItem from="1605188981293" duration="782000" />
       <workItem from="1605408838167" duration="71000" />
+      <workItem from="1605621517108" duration="672000" />
     </task>
     <servers />
   </component>
@@ -86,6 +84,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="208" y="31" width="1022" height="737" key="SettingsEditor" timestamp="1605408852710">
